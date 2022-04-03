@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "demo_physic",
+  "id": "289c1e66-6de1-4297-af37-bf192741e0bb",
+  "version": "2.4.3",
+  "isNew": false
+}
